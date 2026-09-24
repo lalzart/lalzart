@@ -1,29 +1,24 @@
 # Hi, I'm Lance Balzart
 
-I'm a software engineer currently based in Tokyo, working across **application development, geospatial/data systems, systems integration, and technical prototyping**.
+I'm a software developer based in Tokyo. My professional work spans web applications, geospatial and data tools, and systems integration.
 
-My professional work has included production systems built with **TypeScript/React, Python, Node.js, PostgreSQL/PostGIS, BigQuery, Docker/Kubernetes, Mapbox, and data pipelines**. I tend to work best on practical problems that cross boundaries: understanding an unfamiliar system, connecting components, troubleshooting production behavior, and turning ambiguous requirements into something usable.
+I enjoy practical work: understanding an existing system, connecting components, troubleshooting problems, and turning an idea into something usable.
 
-I've spent about a decade working in Japan and previously lived in Taiwan. I'm currently exploring U.S.-based roles in **solutions engineering, implementation, forward-deployed engineering, product/integration engineering, and applied AI systems**.
+I've worked in Japan for about a decade and previously lived in Taiwan. I'm exploring U.S.-based roles focused on implementation, systems integration, and application development.
 
-## Selected projects
+## Professional background
 
-### [Digitakt II firmware research](https://github.com/lalzart/digitakt-ii-firmware-research-public)
-An evidence-bounded architectural map of the Elektron Digitakt II firmware, covering control/DSP boundaries, inter-processor state exchange, sample-resource paths, and audio-processing topology.
+My work has included building and maintaining production applications with TypeScript/React, Python, Node.js, PostgreSQL/PostGIS, BigQuery, Mapbox, Docker, and Kubernetes. It has involved frontend and backend development, data workflows, and supporting existing systems.
 
-### [Digikit](https://github.com/lalzart/digikit)
-An emulator and research toolkit for the Digitakt II control processor, including boot/runtime emulation, display rendering, firmware extraction tooling, and device-behavior analysis.
+## Personal projects and experiments
 
-### [Schuss](https://github.com/lalzart/schuss)
-A source-agnostic environment for designing embedded musical instruments, with typed DSP graphs, compiler/build tooling, desktop integration, and an AI/MCP authoring boundary.
+Outside work, I explore music software, electronic instruments, and ways to understand and extend existing tools. These repositories are a mix of personal prototypes and research projects at different stages of development.
 
-### [Gills Instruments](https://github.com/lalzart/gills-instruments)
-A collection of embedded-DSP instruments for Ksoloti/Gills hardware, combining patch graphs, local DSP code, validation tooling, and hardware-oriented design.
-
-## Core tools
-
-`TypeScript` · `React` · `Python` · `Node.js` · `PostgreSQL / PostGIS` · `BigQuery` · `Docker` · `Kubernetes` · `Mapbox` · `Git`
+- **[Schuss](https://github.com/lalzart/schuss)** — An experimental environment for designing electronic musical instruments, with a desktop interface and tools for connecting sound-processing components.
+- **[Digikit](https://github.com/lalzart/digikit)** — An experimental emulator and toolkit for exploring the Digitakt II's control software.
+- **[Digitakt II firmware research](https://github.com/lalzart/digitakt-ii-firmware-research-public)** — Research notes and diagrams exploring how parts of the instrument's firmware fit together.
+- **[Gills Instruments](https://github.com/lalzart/gills-instruments)** — Sound experiments and instrument patches for Ksoloti/Gills hardware.
 
 ## Elsewhere
 
-- [LinkedIn](https://www.linkedin.com/in/lance-balzart/)
+[LinkedIn](https://www.linkedin.com/in/lance-balzart/)
